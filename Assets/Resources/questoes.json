@@ -1,0 +1,22 @@
+{
+  "questoes": [
+    {
+      "texto": "Quanto e 2 + 2?",
+      "opcoes": [ "3", "4", "5", "22" ],
+      "correta": 1,
+      "dificuldade": "facil"
+    },
+    {
+      "texto": "A capital de Portugal e:",
+      "opcoes": [ "Porto", "Lisboa", "Coimbra", "Faro" ],
+      "correta": 1,
+      "dificuldade": "facil"
+    },
+    {
+      "texto": "Qual e o valor de pi arredondado as duas casas decimais?",
+      "opcoes": [ "3,12", "3,14", "3,16", "3,18" ],
+      "correta": 1,
+      "dificuldade": "medio"
+    }
+  ]
+}
